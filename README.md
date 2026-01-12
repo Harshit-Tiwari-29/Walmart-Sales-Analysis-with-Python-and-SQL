@@ -1,4 +1,4 @@
-Walmart Sales Analysis using Python & SQL
+## Walmart Sales Analysis using Python & SQL
 
 This project focuses on analyzing Walmart sales data by integrating Python-based data processing with SQL-driven analytics. The objective was to build an end-to-end data analysis pipeline—from raw data extraction to actionable business insights—using industry-standard tools.
 
