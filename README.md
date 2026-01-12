@@ -30,13 +30,13 @@ Environment: Jupyter Notebook
 
 🔄 Workflow
 
-Data Extraction
+🔹 Data Extraction
 
 Automated dataset retrieval using the Kaggle API
 
 Loaded ~10,000 sales records
 
-Data Preprocessing (Python)
+🔹 Data Preprocessing (Python)
 
 Removed duplicate records
 
@@ -46,19 +46,20 @@ Normalized inconsistent column formats
 
 Generated a clean, analysis-ready dataset using Pandas
 
-Database Integration
+🔹 Database Integration
 
 Loaded cleaned data into PostgreSQL
 
 Connected Python and SQL workflows using SQLAlchemy
 
-SQL-Based Analysis
+🔹 SQL-Based Analysis
 
 Revenue distribution analysis
 
 Branch-wise performance comparison
 
 Sales trend analysis by daily shifts (morning, afternoon, evening)
+
 
 📊 Key Insights
 
